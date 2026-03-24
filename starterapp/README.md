@@ -10,7 +10,7 @@ A lightweight Spring Boot service template designed to be a clean starting point
 
 ### Start locally
 1. From the project root, run `./mvnw spring-boot:run`
-2. The service starts on `http://localhost:8080`
+2. The service starts on `http://localhost:8081`
 
 ### Verify endpoints
 - `GET /health`
